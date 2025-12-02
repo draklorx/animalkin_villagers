@@ -1,8 +1,9 @@
 {
   "pack": {
-    "description": "Animal Villagers Resource Pack",
-    "pack_format": 69,
-    "min_format": 69,
-    "max_format": 69
+    "description": "Cute Animal Villagers",
+    "pack_format": 15,
+    "supported_formats": { "min_inclusive": 15, "max_inclusive": 999 },
+    "min_format": 15,
+    "max_format": 999
   }
 }
