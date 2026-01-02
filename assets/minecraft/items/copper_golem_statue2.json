@@ -11,7 +11,7 @@
             "type": "minecraft:copper_golem_statue",
             "pose": "sitting",
             "texture": "minecraft:textures/entity/copper_golem/copper_golem.png",
-            "model": "copper_golem_sitting"
+            "model": "block/copper_golem_sitting"
           }
         },
         "when": "sitting"
