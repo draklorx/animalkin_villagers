@@ -88,7 +88,7 @@
     },
 
     {
-      "apply": [{ "model": "minecraft:block/oxidized_copper_golem_running" }],
+      "apply": [{ "model": "minecraft:block/oxidized_copper_golem_standing" }],
       "when": {
         "copper_golem_pose": "standing",
         "facing": "north"
