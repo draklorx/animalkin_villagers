@@ -1,0 +1,119 @@
+{
+  "multipart": [
+    {
+      "apply": [{ "model": "minecraft:block/oxidized_copper_golem_sitting" }],
+      "when": {
+        "copper_golem_pose": "sitting",
+        "facing": "north"
+      }
+    },
+    {
+      "apply": [{ "model": "minecraft:block/oxidized_copper_golem_sitting", "y": 90 }],
+      "when": {
+        "copper_golem_pose": "sitting",
+        "facing": "east"
+      }
+    },
+    {
+      "apply": [{ "model": "minecraft:block/oxidized_copper_golem_sitting", "y": 180 }],
+      "when": {
+        "copper_golem_pose": "sitting",
+        "facing": "south"
+      }
+    },
+    {
+      "apply": [{ "model": "minecraft:block/oxidized_copper_golem_sitting", "y": 270 }],
+      "when": {
+        "copper_golem_pose": "sitting",
+        "facing": "west"
+      }
+    },
+
+    {
+      "apply": [{ "model": "minecraft:block/oxidized_copper_golem_star" }],
+      "when": {
+        "copper_golem_pose": "star",
+        "facing": "north"
+      }
+    },
+    {
+      "apply": [{ "model": "minecraft:block/oxidized_copper_golem_star", "y": 90 }],
+      "when": {
+        "copper_golem_pose": "star",
+        "facing": "east"
+      }
+    },
+    {
+      "apply": [{ "model": "minecraft:block/oxidized_copper_golem_star", "y": 180 }],
+      "when": {
+        "copper_golem_pose": "star",
+        "facing": "south"
+      }
+    },
+    {
+      "apply": [{ "model": "minecraft:block/oxidized_copper_golem_star", "y": 270 }],
+      "when": {
+        "copper_golem_pose": "star",
+        "facing": "west"
+      }
+    },
+
+    {
+      "apply": [{ "model": "minecraft:block/oxidized_copper_golem_running" }],
+      "when": {
+        "copper_golem_pose": "running",
+        "facing": "north"
+      }
+    },
+    {
+      "apply": [{ "model": "minecraft:block/oxidized_copper_golem_running", "y": 90 }],
+      "when": {
+        "copper_golem_pose": "running",
+        "facing": "east"
+      }
+    },
+    {
+      "apply": [{ "model": "minecraft:block/oxidized_copper_golem_running", "y": 180 }],
+      "when": {
+        "copper_golem_pose": "running",
+        "facing": "south"
+      }
+    },
+    {
+      "apply": [{ "model": "minecraft:block/oxidized_copper_golem_running", "y": 270 }],
+      "when": {
+        "copper_golem_pose": "running",
+        "facing": "west"
+      }
+    },
+
+    {
+      "apply": [{ "model": "minecraft:block/oxidized_copper_golem_running" }],
+      "when": {
+        "copper_golem_pose": "standing",
+        "facing": "north"
+      }
+    },
+    {
+      "apply": [{ "model": "minecraft:block/oxidized_copper_golem_standing", "y": 90 }],
+      "when": {
+        "copper_golem_pose": "standing",
+        "facing": "east"
+      }
+    },
+    {
+      "apply": [{ "model": "minecraft:block/oxidized_copper_golem_standing", "y": 180 }],
+      "when": {
+        "copper_golem_pose": "standing",
+        "facing": "south"
+      }
+    },
+    {
+      "apply": [{ "model": "minecraft:block/oxidized_copper_golem_standing", "y": 270 }],
+      "when": {
+        "copper_golem_pose": "standing",
+        "facing": "west"
+      }
+    }
+  ]
+}

@@ -8,18 +8,18 @@
 			"invertAxis": "xy",
 			"translate": [0, -11, 0],
 			"boxes": [
-				{"coordinates": [-4, 11, -5, 8, 7, 10], "textureOffset": [0, 36]},
+				{"coordinates": [-4, 11, -5, 8, 7, 10], "textureOffset": [0, 36], "sizeAdd": 0.1},
 				{"coordinates": [-2, 11, -6, 4, 3, 1], "textureOffset": [26, 42]},
 				{"coordinates": [-1, 18, -1, 2, 2, 2], "textureOffset": [37, 8], "sizeAdd": -0.01},
 				{"coordinates": [-2, 20, -2, 4, 4, 4], "textureOffset": [37, 0], "sizeAdd": -0.01},
-				{"coordinates": [-5.5, 16.5, -1, 3, 3, 1], "textureOffset": [2, 42]}
+				{"coordinates": [-5.5, 16.55, -1, 3, 3, 1], "textureOffset": [2, 42]}
 			],
 			"submodels": [
 				{
 					"invertAxis": "xy",
 					"mirrorTexture": "u",
 					"boxes": [
-						{"coordinates": [2.5, 16.5, -1, 3, 3, 1], "textureOffset": [2, 42]}
+						{"coordinates": [2.5, 16.55, -1, 3, 3, 1], "textureOffset": [2, 42]}
 					]
 				}
 			]
