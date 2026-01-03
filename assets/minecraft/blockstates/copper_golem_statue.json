@@ -57,7 +57,6 @@
         "facing": "west"
       }
     },
-
     {
       "apply": [{ "model": "minecraft:block/copper_golem_running" }],
       "when": {
@@ -83,6 +82,34 @@
       "apply": [{ "model": "minecraft:block/copper_golem_running", "y": 270 }],
       "when": {
         "copper_golem_pose": "running",
+        "facing": "west"
+      }
+    },
+    {
+      "apply": [{ "model": "minecraft:block/copper_golem_standing" }],
+      "when": {
+        "copper_golem_pose": "standing",
+        "facing": "north"
+      }
+    },
+    {
+      "apply": [{ "model": "minecraft:block/copper_golem_standing", "y": 90 }],
+      "when": {
+        "copper_golem_pose": "standing",
+        "facing": "east"
+      }
+    },
+    {
+      "apply": [{ "model": "minecraft:block/copper_golem_standing", "y": 180 }],
+      "when": {
+        "copper_golem_pose": "standing",
+        "facing": "south"
+      }
+    },
+    {
+      "apply": [{ "model": "minecraft:block/copper_golem_standing", "y": 270 }],
+      "when": {
+        "copper_golem_pose": "standing",
         "facing": "west"
       }
     }
